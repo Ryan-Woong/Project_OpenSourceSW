@@ -14,6 +14,8 @@ cv2, dlib, numpy
 
 최대한 이목구비가 잘 드러나는 사진일수록 스티커가 정확하게 붙습니다.
 
+주의! open_SW_ALL.py 파일을 실행하셔야 합니다!
+
 참고 자료
 https://www.youtube.com/watch?v=IMWt52TuozA
 https://velog.io/@sp1rit/얼굴인식-스티커앱-만들기
