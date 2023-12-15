@@ -5,6 +5,11 @@
 사용한 패키지
 cv2, dlib, numpy
 
+<예시 사진>
+<p align="center">
+  <img src="![스크린샷 2023-12-15 235111](https://github.com/Ryan-Woong/Project_OpenSourceSW/assets/131463504/73b89be9-bf03-4717-a88c-3c6e7ac8bcca)">
+</p>
+
 실행방법
 1. 사용자의 사진이 저장된 경로를 입력합니다.
 2. 이후 프로그램이 조건에 맞는 스티커를 사진에 붙여줍니다.
